@@ -1,0 +1,13 @@
+h1{
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  color:#FFFFFF;
+}
+h3{
+  color:#FFFFFF;
+}
+bg-primary{
+  background-color: #FFFFFF;
+}
+.services{
+  background-color: #000000;
+}
